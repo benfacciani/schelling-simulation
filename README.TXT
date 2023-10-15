@@ -1,15 +1,37 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
+# Schelling's Model of Segregation Simulation
 
-ASSIGNMENT:
+This repository contains a Java implementation of Thomas Schelling's Model of Segregation. This simulation visualizes how slight individual preferences can lead to significant societal segregation.
 
-AUTHOR(S):
+## Features
 
-VERSION or DATE:
+- Interactive GUI to visualize the simulation in real-time.
+- Adjustable parameters for population size, satisfaction threshold, and more.
+- Statistical analysis to measure the degree of segregation over time.
 
-HOW TO START THIS PROJECT:
+## Getting Started
 
-USER INSTRUCTIONS:
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+### Prerequisites
+
+- Java SE Development Kit 8 or higher
+
+### Installation
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/your-username/schelling_simulation.git
+    ```
+2. Open the project in your preferred IDE.
+3. Build and run the project.
+
+## Usage
+
+- Launch the application.
+- Adjust the simulation parameters as desired.
+- Start the simulation and observe the results.
+
+## Acknowledgments
+
+- Thomas Schelling for the original model and theory.
+
